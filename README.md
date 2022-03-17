@@ -1,1 +1,2 @@
 # EldenRingBackup
+This is a super simple backup tool that can create a copy of your EldenRing folder every hour... That's all it does. It is read only as far as anyone is concerned and as far as I know cannot result in a softban. Simply edit the settings file to guide the program to your origin and destination folders, then run the executable to continually backup while you play. You might want to clear old backups every few days, but the space they take up is really inconsequentailly small.
