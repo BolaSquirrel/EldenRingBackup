@@ -1,0 +1,2 @@
+Saves Folder; C:/Users/YourUsername/AppData/Roaming/EldenRing
+Destination Folder; C:/Users/YourUsername/AppData/Roaming/EldenRingBackups
